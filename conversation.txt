@@ -1,0 +1,468 @@
+ <function time at 0x000001A3D76A7740>--------------------------------- 
+User(req): null 
+Google (res): null 
+
+ 19 hour and 25 minutes--------------------------------- 
+User(req): Start 
+Google (res): Initializing Google... 
+
+ 19 hour and 26 minutes--------------------------------- 
+User(req): Start 
+Google (res): Initializing Google... 
+
+ 19 hour and 26 minutes--------------------------------- 
+User(req): google 
+Google (res): yeh, i am listening 
+
+ 19 hour and 26 minutes--------------------------------- 
+User(req): what is my name 
+Google (res): As a large language model, I don't have access to personal information. Therefore, I don't know your name. You haven't told me!
+ 
+ 19 hour and 27 minutes--------------------------------- 
+User(req): google 
+Google (res): yeh, i am listening 
+
+ 19 hour and 29 minutes--------------------------------- 
+User(req): google 
+Google (res): yeh, i am listening 
+
+------------------------------------19 hour and 31 minutes---------------------------------------
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------19 hour and 31 minutes---------------------------------------
+User(req): google 
+Google (res): yeh, i am listening 
+
+
+------------------------------------19 hour and 31 minutes---------------------------------------
+User(req): play bones 
+Google (res): Playing Imagine Dragons - Bones (Official Music Video) on YouTube 
+
+
+------------------------------------19 hour and 34 minutes---------------------------------------
+User(req): google 
+Google (res): yeh, i am listening 
+
+
+------------------------------------19 hour and 34 minutes---------------------------------------
+User(req): play enemy 
+Google (res): Playing Imagine Dragons x JID - Enemy (Lyrics) on YouTube 
+
+
+------------------------------------19 hour 41 minutes and 39 seconds---------------------------------------
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------19 hour 41 minutes and 43 seconds---------------------------------------
+User(req): google
+-----19 hour 42 minutes and 37 seconds------
+User(req): play unstoppable 
+Google (res): Playing Sia - Unstoppable (Lyrics) on YouTube 
+
+
+------------------------------------19 hour 45 minutes and 14 seconds---------------------------------------
+User(req): google
+------------------------------------19 hour 46 minutes and 25 seconds---------------------------------------
+User(req): google
+------------------------------------19 hour 48 minutes and 35 seconds---------------------------------------
+User(req): google
+------------------------------------19 hour 48 minutes and 52 seconds---------------------------------------
+User(req): what are you doing 
+Google (res): As a large language model, I don't "do" things in the same way a human does. I don't have a body or personal experiences. Right now, I'm running on Google's servers and processing your request. Specifically, I'm:
+
+*   **Receiving your input:** I've taken in your question, "what are you doing."
+*   **Understanding your intent:** I've interpreted that you're asking about my current activity 
+
+
+----15 hour 54 minutes and 51 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------15 hour 55 minutes and 47 seconds---------------------------------------
+User(req): google
+----15 hour 57 minutes and 22 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+----15 hour 57 minutes and 29 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----15 hour 58 minutes and 19 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------16 hour 02 minutes and 51 seconds---------------------------------------
+User(req): hey Google
+----16 hour 03 minutes and 03 seconds-----
+User(req): what r u doing 
+Google (res): I am currently processing your request and generating a response. Essentially, I'm using my algorithms and knowledge base to understand what you're asking and provide a helpful answer.
+ 
+
+
+------------------------------------16 hour 03 minutes and 25 seconds---------------------------------------
+User(req): hey Google
+----16 hour 03 minutes and 30 seconds-----
+User(req): open Google 
+Google (res): opening google 
+
+
+----16 hour 04 minutes and 09 seconds-----
+User(req): I said stop 
+Google (res): Google Stopped.. 
+
+
+----17 hour 05 minutes and 09 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------17 hour 05 minutes and 21 seconds---------------------------------------
+User(req): hey Google
+----17 hour 05 minutes and 26 seconds-----
+User(req): open YouTube 
+Google (res): opening youtube 
+
+
+------------------------------------17 hour 05 minutes and 36 seconds---------------------------------------
+User(req): hey Google
+----17 hour 06 minutes and 18 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----17 hour 08 minutes and 49 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------17 hour 08 minutes and 56 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 09 minutes and 25 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 09 minutes and 55 seconds---------------------------------------
+User(req): hey Google
+----17 hour 10 minutes and 01 seconds-----
+User(req): calculate 1 + 2 + 3 
+Google (res): The result is 6.0 
+
+
+----17 hour 10 minutes and 35 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----17 hour 23 minutes and 13 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+----17 hour 27 minutes and 36 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------17 hour 28 minutes and 01 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 28 minutes and 51 seconds---------------------------------------
+User(req): hey Google
+----17 hour 29 minutes and 19 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+------------------------------------17 hour 29 minutes and 21 seconds---------------------------------------
+User(req): stop
+----17 hour 46 minutes and 14 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------17 hour 46 minutes and 22 seconds---------------------------------------
+User(req): hey Google
+----17 hour 46 minutes and 27 seconds-----
+User(req): open YouTube 
+Google (res): opening youtube 
+
+
+------------------------------------17 hour 46 minutes and 30 seconds---------------------------------------
+User(req): hey Google
+----17 hour 46 minutes and 33 seconds-----
+User(req): open Chrome 
+Google (res): opening chrome 
+
+
+------------------------------------17 hour 46 minutes and 35 seconds---------------------------------------
+User(req): hey Google
+----17 hour 46 minutes and 38 seconds-----
+User(req): open LinkedIn 
+Google (res): opening linkedin 
+
+
+------------------------------------17 hour 46 minutes and 40 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 47 minutes and 12 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 47 minutes and 55 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 48 minutes and 27 seconds---------------------------------------
+User(req): hey Google
+------------------------------------17 hour 50 minutes and 01 seconds---------------------------------------
+User(req): hey Google
+----17 hour 50 minutes and 22 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----17 hour 54 minutes and 41 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------17 hour 54 minutes and 57 seconds---------------------------------------
+User(req): Google
+----17 hour 55 minutes and 18 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----18 hour 00 minutes and 27 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------18 hour 00 minutes and 38 seconds---------------------------------------
+User(req): hey Google
+----18 hour 03 minutes and 50 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----18 hour 13 minutes and 17 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------18 hour 13 minutes and 27 seconds---------------------------------------
+User(req): hey Google
+----18 hour 13 minutes and 37 seconds-----
+User(req): play shivers on YouTube 
+Google (res): Playing Ed Sheeran - Shivers [Official Video] on YouTube 
+
+
+------------------------------------18 hour 13 minutes and 39 seconds---------------------------------------
+User(req): hey Google
+----18 hour 13 minutes and 59 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----18 hour 26 minutes and 24 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------18 hour 26 minutes and 30 seconds---------------------------------------
+User(req): hey Google
+----18 hour 26 minutes and 52 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----18 hour 37 minutes and 02 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------18 hour 37 minutes and 19 seconds---------------------------------------
+User(req): Listening
+----18 hour 37 minutes and 36 seconds-----
+User(req): play shivers on YouTube 
+Google (res): Playing Ed Sheeran - Shivers [Official Video] on YouTube 
+
+
+------------------------------------18 hour 37 minutes and 36 seconds---------------------------------------
+User(req): Listening
+----18 hour 37 minutes and 52 seconds-----
+User(req): what are you doing 
+Google (res): I am currently running on a computer, processing your request and generating a response. In simpler terms, I'm using my programming and knowledge to understand what you're asking and give you a helpful answer.
+ 
+
+
+------------------------------------18 hour 37 minutes and 52 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 37 minutes and 58 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 03 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 08 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 13 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 19 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 24 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 29 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 34 seconds---------------------------------------
+User(req): Listening
+----18 hour 38 minutes and 45 seconds-----
+User(req): play YouTube lovely 
+Google (res): Playing Billie Eilish, Khalid - lovely on YouTube 
+
+
+------------------------------------18 hour 38 minutes and 46 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 38 minutes and 55 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 00 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 05 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 10 seconds---------------------------------------
+User(req): Listening
+----18 hour 39 minutes and 20 seconds-----
+User(req): play shivers locally 
+Google (res): Playing Ed Sheeran - Shivers [Official Video] locally 
+
+
+------------------------------------18 hour 39 minutes and 20 seconds---------------------------------------
+User(req): Listening
+----18 hour 39 minutes and 30 seconds-----
+User(req): please change 
+Google (res): Okay, I understand you want me to "change." To give you the best response, I need a little more information. Could you tell me what you want me to change *into* or *about*?
+
+For example, are you asking me to:
+
+*   **Change my response style?** (e.g., "Please be more concise," "Please be more creative," "Please be more formal.")
+*   **Change my answer to a previous question?** ( 
+
+
+------------------------------------18 hour 39 minutes and 31 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 37 seconds---------------------------------------
+User(req): Listening
+----18 hour 39 minutes and 45 seconds-----
+User(req): pata nahin 
+Google (res): "Pata nahin" means "I don't know" in Hindi. 
+
+So, if you're saying "pata nahin" to my question about what you want me to change, it means you don't know what you want me to change.
+
+In that case, I can offer a few options:
+
+*   **I can tell you a joke.**
+*   **I can try to answer a different question you might have.**
+*   **I can 
+
+
+------------------------------------18 hour 39 minutes and 45 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 52 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 39 minutes and 57 seconds---------------------------------------
+User(req): Listening
+----18 hour 40 minutes and 10 seconds-----
+User(req): tell me a joke 
+Google (res): Why don't scientists trust atoms?
+
+Because they make up everything!
+ 
+
+
+------------------------------------18 hour 40 minutes and 10 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 16 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 20 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 23 seconds---------------------------------------
+User(req): Listening
+----18 hour 40 minutes and 29 seconds-----
+User(req): that was a nice joke 
+Google (res): I'm glad you liked it! Would you like to hear another one?
+ 
+
+
+------------------------------------18 hour 40 minutes and 29 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 35 seconds---------------------------------------
+User(req): Listening
+----18 hour 40 minutes and 43 seconds-----
+User(req): tell why this space mission is not working 
+Google (res): To tell you why a specific space mission isn't working, I need more information! I don't know which mission you're referring to. Please tell me:
+
+*   **The name of the mission:** (e.g., "Artemis I," "James Webb Space Telescope," "Mars Perseverance Rover")
+*   **What's going wrong:** (If you know specific details, that's helpful. For example, "I heard the launch was delayed," 
+
+
+------------------------------------18 hour 40 minutes and 43 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 50 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 53 seconds---------------------------------------
+User(req): Listening
+------------------------------------18 hour 40 minutes and 59 seconds---------------------------------------
+User(req): Listening
+----18 hour 41 minutes and 57 seconds-----
+User(req): stop 
+Google (res): Google Stopped.. 
+
+
+----09 hour 13 minutes and 40 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+----09 hour 37 minutes and 50 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+----09 hour 40 minutes and 43 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------09 hour 49 minutes and 02 seconds---------------------------------------
+User(req): hey Google
+----09 hour 49 minutes and 18 seconds-----
+User(req): play Shiv kailasho ke was 
+Google (res): Playing Shiv kailasho ke Vasi || Official Music Video || Hansraj Raghuwanshi || Baba Ji on YouTube 
+
+
+----09 hour 50 minutes and 14 seconds-----
+User(req): stop it 
+Google (res): Google Stopped.. 
+
+
+----09 hour 51 minutes and 04 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+------------------------------------09 hour 51 minutes and 17 seconds---------------------------------------
+User(req): hey Google
+----09 hour 51 minutes and 41 seconds-----
+User(req): download Shiv kailashi Ka 
+Google (res): Error downloading Shiv kailashi Ka: [WinError 2] The system cannot find the file specified: 'C:\\Users\\ok\\Documents\\Jarvis\\music\\Shiv kailasho ke Vasi || Official Music Video || Hansraj Raghuwanshi || Baba Ji.mp3' 
+
+
+----09 hour 52 minutes and 43 seconds-----
+User(req): stop it 
+Google (res): Google Stopped.. 
+
+
+----10 hour 03 minutes and 13 seconds-----
+User(req): Start 
+Google (res): Initializing Google... 
+
+
+--------------------2025-11-14 ___ 10 hour 13 minutes and 28 seconds-------------------

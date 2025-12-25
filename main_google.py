@@ -11,7 +11,7 @@ import yt_dlp, wikipedia, conv_save
 # import opencv
 
 
-API_KEY = "AIzaSyC56s0Q6VnlxSsWPYmSYIJC4jhtrVGIxb0"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel(
     "gemini-2.0-flash",
@@ -191,4 +191,5 @@ if __name__ == "__main__":
 
     
     # print("Engine cleanly")
+
 
